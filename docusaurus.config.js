@@ -10,7 +10,7 @@ const config = {
   // Set the production url of your site here
   url: 'https://your-github-username-or-org.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/physical-ai-humanoid-robotics-book/',
+  baseUrl: '/',
 
   // GitHub pages deployment config
   organizationName: 'your-github-username-or-org',

@@ -1,54 +1,97 @@
 {
-  "/physical-ai-humanoid-robotics-book/docs-b4f": {
-    "__comp": "5e95c892",
+  "/physical-ai-humanoid-robotics-book/__docusaurus/debug-8a2": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---physical-ai-humanoid-robotics-book-docusaurus-debugb-38-a27"
+    }
+  },
+  "/physical-ai-humanoid-robotics-book/__docusaurus/debug/config-836": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-robotics-book-docusaurus-debugb-38-a27"
+    }
+  },
+  "/physical-ai-humanoid-robotics-book/__docusaurus/debug/content-1da": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-robotics-book-docusaurus-debugb-38-a27"
+    },
+    "__props": "__props---physical-ai-humanoid-robotics-book-docusaurus-debug-content-37-f-6aa"
+  },
+  "/physical-ai-humanoid-robotics-book/__docusaurus/debug/globalData-9a4": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-robotics-book-docusaurus-debugb-38-a27"
+    }
+  },
+  "/physical-ai-humanoid-robotics-book/__docusaurus/debug/metadata-e73": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-robotics-book-docusaurus-debugb-38-a27"
+    }
+  },
+  "/physical-ai-humanoid-robotics-book/__docusaurus/debug/registry-4e1": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-robotics-book-docusaurus-debugb-38-a27"
+    }
+  },
+  "/physical-ai-humanoid-robotics-book/__docusaurus/debug/routes-bf0": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-robotics-book-docusaurus-debugb-38-a27"
+    }
+  },
+  "/physical-ai-humanoid-robotics-book/docs-b4f": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-robotics-book-docsaba-097"
     }
   },
   "/physical-ai-humanoid-robotics-book/docs-844": {
-    "__comp": "a7bd4aaa",
-    "__props": "b8679814"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---physical-ai-humanoid-robotics-book-docsb-86-2ee"
   },
   "/physical-ai-humanoid-robotics-book/docs-800": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/physical-ai-humanoid-robotics-book/docs/capstone-vla-manipulation-2f7": {
-    "__comp": "17896441",
-    "content": "1ad47628"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-book-docs-capstone-vla-manipulation-1-ad-d36"
   },
   "/physical-ai-humanoid-robotics-book/docs/digital-twin-intro-543": {
-    "__comp": "17896441",
-    "content": "6a912026"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-book-docs-digital-twin-intro-6-a-9-9a0"
   },
   "/physical-ai-humanoid-robotics-book/docs/hardware-setup-39f": {
-    "__comp": "17896441",
-    "content": "78b03daa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-book-docs-hardware-setup-78-b-1b2"
   },
   "/physical-ai-humanoid-robotics-book/docs/humanoid-navigation-e3c": {
-    "__comp": "17896441",
-    "content": "18b1eeba"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-book-docs-humanoid-navigation-18-b-638"
   },
   "/physical-ai-humanoid-robotics-book/docs/intro-5ac": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-book-docs-intro-0-e-3-698"
   },
   "/physical-ai-humanoid-robotics-book/docs/isaac-locomotion-training-d52": {
-    "__comp": "17896441",
-    "content": "21f7707a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-book-docs-isaac-locomotion-training-21-f-a16"
   },
   "/physical-ai-humanoid-robotics-book/docs/ros2-intro-f46": {
-    "__comp": "17896441",
-    "content": "9c390f57"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-book-docs-ros-2-intro-9-c-3-d62"
   },
   "/physical-ai-humanoid-robotics-book/docs/ros2-joint-control-f97": {
-    "__comp": "17896441",
-    "content": "3401f283"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-book-docs-ros-2-joint-control-340-ead"
   },
   "/physical-ai-humanoid-robotics-book/-428": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---physical-ai-humanoid-robotics-book-a-74-fb7"
     },
-    "content": "f3976560"
+    "content": "content---physical-ai-humanoid-robotics-book-f-39-86b"
   }
 }
