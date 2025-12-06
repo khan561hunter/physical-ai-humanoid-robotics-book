@@ -1,0 +1,68 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/physical-ai-humanoid-robotics-book/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/physical-ai-humanoid-robotics-book/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "capstone-vla-manipulation",
+              "path": "/physical-ai-humanoid-robotics-book/docs/capstone-vla-manipulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "digital-twin-intro",
+              "path": "/physical-ai-humanoid-robotics-book/docs/digital-twin-intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hardware-setup",
+              "path": "/physical-ai-humanoid-robotics-book/docs/hardware-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "humanoid-navigation",
+              "path": "/physical-ai-humanoid-robotics-book/docs/humanoid-navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/physical-ai-humanoid-robotics-book/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-locomotion-training",
+              "path": "/physical-ai-humanoid-robotics-book/docs/isaac-locomotion-training",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2-intro",
+              "path": "/physical-ai-humanoid-robotics-book/docs/ros2-intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2-joint-control",
+              "path": "/physical-ai-humanoid-robotics-book/docs/ros2-joint-control",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/physical-ai-humanoid-robotics-book/docs/intro",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

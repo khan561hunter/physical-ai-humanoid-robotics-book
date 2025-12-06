@@ -1,0 +1,18 @@
+export default {
+  "0e384e19": [() => import(/* webpackChunkName: "0e384e19" */ "@site/docs/intro.md"), "@site/docs/intro.md", require.resolveWeak("@site/docs/intro.md")],
+  "17896441": [() => import(/* webpackChunkName: "17896441" */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
+  "18b1eeba": [() => import(/* webpackChunkName: "18b1eeba" */ "@site/docs/humanoid-navigation.md"), "@site/docs/humanoid-navigation.md", require.resolveWeak("@site/docs/humanoid-navigation.md")],
+  "1ad47628": [() => import(/* webpackChunkName: "1ad47628" */ "@site/docs/capstone-vla-manipulation.md"), "@site/docs/capstone-vla-manipulation.md", require.resolveWeak("@site/docs/capstone-vla-manipulation.md")],
+  "1f391b9e": [() => import(/* webpackChunkName: "1f391b9e" */ "@theme/MDXPage"), "@theme/MDXPage", require.resolveWeak("@theme/MDXPage")],
+  "21f7707a": [() => import(/* webpackChunkName: "21f7707a" */ "@site/docs/isaac-locomotion-training.md"), "@site/docs/isaac-locomotion-training.md", require.resolveWeak("@site/docs/isaac-locomotion-training.md")],
+  "3401f283": [() => import(/* webpackChunkName: "3401f283" */ "@site/docs/ros2-joint-control.md"), "@site/docs/ros2-joint-control.md", require.resolveWeak("@site/docs/ros2-joint-control.md")],
+  "5e95c892": [() => import(/* webpackChunkName: "5e95c892" */ "@theme/DocsRoot"), "@theme/DocsRoot", require.resolveWeak("@theme/DocsRoot")],
+  "6a912026": [() => import(/* webpackChunkName: "6a912026" */ "@site/docs/digital-twin-intro.md"), "@site/docs/digital-twin-intro.md", require.resolveWeak("@site/docs/digital-twin-intro.md")],
+  "78b03daa": [() => import(/* webpackChunkName: "78b03daa" */ "@site/docs/hardware-setup.md"), "@site/docs/hardware-setup.md", require.resolveWeak("@site/docs/hardware-setup.md")],
+  "9c390f57": [() => import(/* webpackChunkName: "9c390f57" */ "@site/docs/ros2-intro.md"), "@site/docs/ros2-intro.md", require.resolveWeak("@site/docs/ros2-intro.md")],
+  "a7456010": [() => import(/* webpackChunkName: "a7456010" */ "@generated/docusaurus-plugin-content-pages/default/__plugin.json"), "@generated/docusaurus-plugin-content-pages/default/__plugin.json", require.resolveWeak("@generated/docusaurus-plugin-content-pages/default/__plugin.json")],
+  "a7bd4aaa": [() => import(/* webpackChunkName: "a7bd4aaa" */ "@theme/DocVersionRoot"), "@theme/DocVersionRoot", require.resolveWeak("@theme/DocVersionRoot")],
+  "a94703ab": [() => import(/* webpackChunkName: "a94703ab" */ "@theme/DocRoot"), "@theme/DocRoot", require.resolveWeak("@theme/DocRoot")],
+  "aba21aa0": [() => import(/* webpackChunkName: "aba21aa0" */ "@generated/docusaurus-plugin-content-docs/default/__plugin.json"), "@generated/docusaurus-plugin-content-docs/default/__plugin.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/__plugin.json")],
+  "b8679814": [() => import(/* webpackChunkName: "b8679814" */ "@generated/docusaurus-plugin-content-docs/default/p/physical-ai-humanoid-robotics-book-docs-c7b.json"), "@generated/docusaurus-plugin-content-docs/default/p/physical-ai-humanoid-robotics-book-docs-c7b.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/p/physical-ai-humanoid-robotics-book-docs-c7b.json")],
+  "f3976560": [() => import(/* webpackChunkName: "f3976560" */ "@site/src/pages/index.md"), "@site/src/pages/index.md", require.resolveWeak("@site/src/pages/index.md")],};

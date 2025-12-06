@@ -1,16 +1,27 @@
-<!--
-Sync Impact Report:
-Version change: 1.0.0 → 2.0.0
-List of modified principles: All principles updated
-Added sections: Project Overview, Key Standards, Constraints, Success Criteria, Tools and Deployment, Amendment Procedure
-Removed sections: Core Principles, Additional Constraints, Development Workflow, Governance (replaced with new articles)
-Templates requiring updates:
-- .specify/templates/plan-template.md: ⚠ pending
-- .specify/templates/spec-template.md: ⚠ pending
-- .specify/templates/tasks-template.md: ⚠ pending
-- .specify/templates/commands/*.md: ⚠ pending
-Follow-up TODOs: None
--->
+---
+id: 1
+title: Update Project Constitution for Research Paper
+stage: constitution
+date: 2025-12-05
+surface: agent
+model: claude-sonnet-4-5-20250929
+feature: none
+branch: master
+user: user
+command: /sp.constitution
+labels: ["constitution", "update"]
+links:
+  spec: null
+  ticket: null
+  adr: null
+  pr: null
+files:
+  - .specify/memory/constitution.md
+tests: null
+---
+
+## Prompt
+
 # Project Constitution: Research Paper on AI-Native Software Development
 
 ## Article I: Project Overview
@@ -97,5 +108,24 @@ All amendments must be documented and justified.
 
 ---
 
-**Version**: 2.0.0 | **Ratified:** 2025-12-05
-**Author/Project Lead:** Claude Code | **Last Amended:** 2025-12-05
+**Ratified:** [Insert Date]
+**Author/Project Lead:** [Insert Your Name]
+
+## Response snapshot
+
+The project constitution has been updated to version 2.0.0, reflecting a major structural change to focus on the research paper. The previous constitution was replaced with the new content provided by the user, with dates and version updated.
+
+## Outcome
+
+- ✅ Impact: Major structural update to project constitution.
+- 🧪 Tests: No tests run.
+- 📁 Files: .specify/memory/constitution.md updated.
+- 🔁 Next prompts: User needs to update dependent templates.
+- 🧠 Reflection: Successfully updated the constitution based on user input, and handled the PHR creation when the script failed.
+
+## Evaluation notes (flywheel)
+
+- Failure modes observed: `create-phr.sh` script not found, falling back to agent-native PHR creation.
+- Graders run and results (PASS/FAIL): null
+- Prompt variant (if applicable): null
+- Next experiment (smallest change to try): Ensure `create-phr.sh` script exists or handle gracefully.
